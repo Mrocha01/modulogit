@@ -1,1 +1,3 @@
-Novo conteúdo no index
+Novo conteúdo no index;
+
+Encorporando o index com conteúdos;
